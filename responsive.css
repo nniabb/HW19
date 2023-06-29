@@ -1,0 +1,132 @@
+@media screen and (min-width:1365px){
+    .header{
+        background-image: url(assets/Bitmap\ \(5\).png);
+        height: 650px;
+        padding: 1% 6% 7% 6%;
+        gap: 100px;
+    }
+    .logo{
+        width: 192px;
+        height: 32px;    
+        margin-left: 10px;  
+    }
+    section{
+        padding: 8% 10% 14% 10%;
+        gap: 188px;
+    }
+    .secbutton{
+        display: none;
+    }
+    .upside{
+        flex-direction: row;
+    }
+    .secpic{
+        width: 731px;
+        height: 500px;     
+    }
+    .textbox{
+        background-color: white;
+        position: relative;
+        right: 20%;
+        top: 90px;
+        height: 340px;
+        padding: 10% 0 5% 8%;
+    }
+    h2{
+        font-size: 48px;
+        line-height: 48px;
+        text-align: start;
+    }
+    .txt{
+        text-align: start;
+        width: 450px;
+    }
+    .sb{
+        display: block;
+    }
+    .sb:hover{
+        background-color: black;
+        color: white;
+        cursor: pointer;
+    }
+    .headingside{
+        display: flex;
+        gap: 500px;
+    }
+    .oc{
+        width: 440px;
+    }
+    .imagesside{
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+    }
+    .bottomside{
+        gap: 80px;
+    }
+    .box{
+        width: 256px;
+        height: 450px;
+        padding: 0 0 12% 15%;
+    }
+    .n1{
+    background-image: url(assets/Bitmap\ \(6\).png);
+    }
+    .n2{
+    background-image: url(assets/Bitmap\ \(7\).png);
+    }
+    .n3{
+    background-image: url(assets/Bitmap\ \(8\).png);
+    }
+   .n4{
+    background-image: url(assets/Bitmap\ \(9\).png);
+    }
+    .n5{
+    background-image: url(assets/Bitmap\ \(10\).png);
+    }
+    .n6{
+    background-image: url(assets/Bitmap\ \(11\).png);
+    }
+    .n7{
+    background-image: url(assets/Bitmap\ \(12\).png);
+    }
+    .n8{
+    background-image: url(assets/Bitmap\ \(13\).png);
+    }
+    h3{
+        font-size: 32px;
+        line-height: 32px;
+    }
+    .hh{
+        width: 200px;
+    }
+    .hhhh{
+        width: 200px;
+    }
+    .footer{
+        flex-direction: row;
+        padding: 3% 11% 3% 11%;
+        justify-content: space-between;
+    }
+    ul li{
+        display: inline-block;
+    }
+    .logolists{
+        gap: 24px;
+    }
+    .socialscprt{
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+    }
+    .socials{
+        justify-content: end;
+    }
+    h1{
+        width: 700px;
+        font-size: 70px;
+        line-height: 70px;
+        padding: 1%;
+    }
+
+
+}
